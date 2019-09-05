@@ -3,9 +3,11 @@
 A tutorial project for electron.
 
 ## Setup
-`brew install node`
-`npm install -g electron-prebuilt`
-`npm install -g electron-packager`
+```bash
+brew install node
+npm install -g electron-prebuilt
+npm install -g electron-packager
+```
 
 ## Create Files
 1. create `package.json`
